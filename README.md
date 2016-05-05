@@ -10,7 +10,7 @@ Steps to run this program-
 
 Type this in terminal - vtk q1.tcl and vtk q2.tcl
 
-3) The assignment was very interesting but I had open questions like how to calculate mix/max iso value, because I did not  have a clear idea. I hardcoded the values based on a brute-force method. 
+3) The project was very interesting but I had open questions like how to calculate mix/max iso value, because I did not  have a clear idea. I hardcoded the values based on a brute-force method. 
 
 
 
